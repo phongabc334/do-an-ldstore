@@ -1,0 +1,32 @@
+1650962144302	Rename type 'Categorys'
+1650962159056	Rename type 'MapperCategorys'
+1650962210098	Rename type 'CategorysDao'
+1650964140766	Rename resource 'categorys.jsp'
+1650964248400	Rename type 'ICategaryService'
+1650964257712	Rename type 'CategoryServiceImpl'
+1650977393539	Rename resource 'news.jsp'
+1650983145564	Delete element
+1651033367378	Copy file
+1651066659128	Rename type 'UserService'
+1651130400728	Copy file
+1651147433964	Delete element
+1651147436762	Delete element
+1651147472151	Delete element
+1651222167387	Copy file
+1651222177833	Rename resource 'detaluserbill.jsp'
+1651225159656	Rename type 'IBillDetailServier'
+1651225335523	Rename type 'BillDetailService'
+1651230277410	Copy file
+1651237067390	Rename type 'BaseController'
+1651246287394	Rename resource 'footer.jsp'
+1651249057160	Rename resource 'user'
+1651249713291	Delete element
+1651249751245	Delete element
+1651301309623	Rename resource 'danhmuc'
+1651301321014	Rename resource 'sanpham'
+1651303869816	Copy compilation unit
+1651303906056	Rename type 'productmanage'
+1651303918474	Rename type 'providermanage'
+1651304166387	Delete element
+1651304214953	Rename resource 'prvider.jsp'
+1651323468238	Copy file

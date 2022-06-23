@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;addprovider.jsp&apos; to &apos;addprovider.jsp&apos;&#x0D;&#x0A;- Original project: &apos;LdStore&apos;&#x0D;&#x0A;- Destination element: &apos;addprovider.jsp&apos;&#x0D;&#x0A;- Original element: &apos;addprovider.jsp&apos;" description="Copy file" element1="src/main/webapp/WEB-INF/views/admin/provider/addprovider.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1653232423245" target="/LdStore/src/main/webapp/WEB-INF/views/admin/provider/addprovider.jsp" units="0" version="1.0"/>
+</session>

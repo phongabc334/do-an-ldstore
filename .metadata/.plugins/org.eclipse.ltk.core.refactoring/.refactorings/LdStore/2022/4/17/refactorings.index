@@ -1,0 +1,21 @@
+1650187052676	Rename resource 'UserController'
+1650187102852	Move compilation unit
+1650187135961	Rename type 'HomeDao'
+1650190682908	Rename type 'IHome'
+1650190707771	Rename type 'HomeImpl'
+1650210021975	Delete element
+1650210025293	Delete element
+1650210028215	Delete element
+1650210091249	Copy compilation unit
+1650210192731	Copy compilation unit
+1650292938761	Rename type 'ProductDto'
+1650293036087	Rename type 'ProductsDtoMapper'
+1650300362687	Delete element
+1650300511102	Delete element
+1650300575729	Delete element
+1650300580536	Delete element
+1650300584783	Delete element
+1650300595505	Delete element
+1650357345823	Rename resource 'all_product.jsp'
+1650357975375	Delete element
+1650363966206	Move 'categorys.jsp' to 'products'

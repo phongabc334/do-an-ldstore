@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\ThucTap\DO-AN\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3025726254.index
+4079747300.index
+190316997.index
+2412899279.index
+1966465428.index
+2060825052.index

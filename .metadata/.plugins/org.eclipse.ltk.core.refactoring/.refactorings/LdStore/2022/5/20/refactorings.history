@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;changepassword.jsp&apos; to &apos;profile&apos;&#x0D;&#x0A;- Original project: &apos;LdStore&apos;&#x0D;&#x0A;- Destination element: &apos;profile&apos;&#x0D;&#x0A;- Original element: &apos;changepassword.jsp&apos;" description="Copy file" element1="src/main/webapp/WEB-INF/views/admin/account/changepassword.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1652519688108" target="/LdStore/src/main/webapp/WEB-INF/views/admin/profile" units="0" version="1.0"/>
+</session>

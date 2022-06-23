@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\ThucTap\DO-AN\.metadata\.plugins\org.eclipse.jdt.core
+2412899279.index
+2820947057.index
+1865797976.index

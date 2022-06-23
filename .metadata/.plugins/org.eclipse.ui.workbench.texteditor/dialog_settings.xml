@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="AdminEditUserStatus"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="_mvShare.addObject(&quot;AdminEditUser&quot;, session.getAttribute(&quot;InfoAdmin&quot;));"/>
+			<item value="AdminEditUserStatus"/>
+			<item value="script"/>
+			<item value="${ item.hangsx }/${ item.id_hangsx }"/>
+			<item value="SqlProductId"/>
+			<item value="GetDataProductPaginate"/>
+			<item value="update"/>
+			<item value="view-more"/>
+			<item value="product:hover"/>
+			<item value="form-group"/>
+			<item value="category"/>
+			<item value="statusAddProviser"/>
+			<item value="statusOkProviser"/>
+			<item value="AdminEditPassUserStatus"/>
+			<item value="providerServiceImpl"/>
+		</list>
+		<list key="replacehistory">
+			<item value="/cua-hang/?s=${ item.id_hangsx }"/>
+			<item value=""/>
+			<item value="src=&quot;&lt;c:url value=&quot;/template/admin/"/>
+			<item value="src=&quot;"/>
+			<item value="href=&quot;&lt;c:url value=&quot;/template/admin/"/>
+			<item value="Bills"/>
+			<item value="${ item.hangsx }/${ item.id_hangsx }&quot;"/>
+			<item value="${ item.name }/${ item.hangsx }&quot;"/>
+			<item value="sql"/>
+			<item value="provider"/>
+			<item value="soluongton"/>
+			<item value="Colors"/>
+			<item value="&lt;c:url value=&quot;/template/user/"/>
+			<item value="paginateInfo"/>
+			<item value="src=&quot;&lt;c:url value=&quot;/template"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1000"/>
+		<item key="DIALOG_Y_ORIGIN" value="337"/>
+		<item key="DIALOG_WIDTH" value="322"/>
+		<item key="DIALOG_HEIGHT" value="391"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
